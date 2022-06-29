@@ -3,7 +3,7 @@ Modelo del plan de expansión del servicio móvil avanzado SMA, para los proceso
 
 
 ### Derechos Reservados
-Todos los derechos reservados de Byron Raúl Avilés, por lo cual cualquier copia debe ser realizada con el permiso del autor.
+Todos los derechos de uso son reservados, por lo cual cualquier copia debe ser realizada con el permiso del autor.
 
 ### Página web
 [Web Personal](https://raulaviles.netlify.app/)
